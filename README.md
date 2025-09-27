@@ -3,7 +3,7 @@
 ## 📄 프로젝트 소개
 이 프로젝트의 목표는 상용 클라이언트와 통신이 가능한 IRC(Internet Relay Chat) 서버를 구현하는 것입니다.
 <br></br>
-상용 클라이언트 irssi를 기준으로 개발되었습니다.
+상용 클라이언트 irssi와 irc 서버 inspircd, 그리고 RFC 1459를 기준으로 개발되었습니다.
 
 ## 📌 제약 조건
 - C++98 규격으로 작성하고 -Wall -Wextra -Werror 플래그로 컴파일해야 함
